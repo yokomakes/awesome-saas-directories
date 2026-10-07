@@ -11,6 +11,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [G2](https://www.g2.com/) - Software reviews to build credibility and reach businesses.
 - [Capterra](https://www.capterra.com/) - Comprehensive software listing and reviews.
 - [GetApp](https://www.getapp.com/) - Discover and compare software tools.
+- [Huzzler](https://huzzler.so) - Launch platform and startup directory for SaaS founders.
 - [Trustpilot](https://www.trustpilot.com/) - Collect customer reviews to establish trust.
 
 ---
